@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CElino_Login</string>
+    <string name="uname_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="login_btn">Sign in</string>
+    <string name="or_login">or sign in with</string>
+    <string name="goto_register">Not a member yet? Register</string>
+</resources>
